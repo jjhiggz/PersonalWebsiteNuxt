@@ -1,0 +1,34 @@
+{
+  "photos": [
+    {
+      "id": 1,
+      "title": "Doomslayer On My Shoulders",
+      "filename": "doomslayer_shoulders.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Doomslayer looking at a glorious sunset",
+      "filename": "doomslayer_sunset.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Hiking with my Dog Doomslayer at Sunset",
+      "filename": "hiking_sunset.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Me and My baby fur boy, getting some coding done together",
+      "filename": "jon_and_doomslayer.jpg"
+    },
+    {
+      "id": 5,
+      "title": "My special lady and my best buddy",
+      "filename": "special_lady_with_doomslayer.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Back when I used to be in a band...",
+      "filename": "playing_music.jpg"
+    }
+  ]
+}
